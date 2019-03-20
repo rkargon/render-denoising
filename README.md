@@ -25,3 +25,9 @@ Loudon Cohen & Raphael Kargon
  ./release/final <scene xml>
 ./release/final -h (for more options)
 ```
+
+## Sample Images
+
+![results1](res/cornell demo.png)
+
+![results2](res/svgf2.png)
