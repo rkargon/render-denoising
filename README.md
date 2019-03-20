@@ -28,6 +28,7 @@ Loudon Cohen & Raphael Kargon
 
 ## Sample Images
 
-![results1](res/cornell demo.png)
+![results1](res/preview.png)
+
 
 ![results2](res/svgf2.png)
